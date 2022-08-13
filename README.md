@@ -33,3 +33,4 @@ Derudover kan kode for de to undersystemer findes følgende steder (Github):
 
 - [LPOS enhed](https://github.com/inuitviking/LPOS-enhed)
 - [LPOS infoskærm](https://github.com/inuitviking/LPOS-infosk-rm)
+- [LPOS infoskærm compose](https://github.com/inuitviking/LPOS-infosk-rm-compose)
